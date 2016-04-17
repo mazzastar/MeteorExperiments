@@ -15,6 +15,13 @@ var postsData = [ {
 
 Template.postsList.helpers({
 	posts: postsData
+});
+
+Template.tis.helpers({
+
+	x: [{a:1},{a:2},{a:33}]
+
+
 });			
 
 
